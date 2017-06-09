@@ -12,6 +12,6 @@ As such, the ability to learn new tools and techniques is paramount to your succ
 3. Compute the mean salary of Police Officers.
 4. Find the four Job Titles with the highest average salaries.
 5. Compute a 95% confidence interval around the mean salary of the whole dataset.
-6. Create a boxplot showing the salaries of the top four Job Titles identified in #4.
+6. Create a boxplot showing the distribution of salaries in the whole dataset.
 
 Submit a single Jupyter notebook containing organized answers for the prompts above. Write Markdown in the notebook to organize your code and communicate your intent to the reader.
